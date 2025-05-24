@@ -23,4 +23,4 @@ This directory is actively maintained. Old or inactive shops are disabled to imp
 
 ---
 
-**Note:** This repository does not host or distribute any copyrighted content. It only provides a list of shop endpoints for use with Tinfoil. We do the work so you dont have to.
+**Note:** This repository does not host or distribute any copyrighted content. It only provides a list of shop endpoints for use with Tinfoil. We do the work so you dont have to, simply add our repo once, and stay up to date with the rapidly changing shop scene.
