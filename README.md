@@ -11,8 +11,8 @@ A `.tfl` file is a custom index file used by Tinfoil to provide a list of shops,
 Instead of downloading the `shops.tfl` file, you should point Tinfoil directly to the hosted file. Although, you could download and host it yourself.:
 
 - **Protocol:** https
-- **Host:** probablyhedge.github.io
-- **Path:** shops.tfl
+- **Host:** codehedge.github.io
+- **Path:** TinfoilDirectory/shops.tfl
 - **Title:** Shop Directory
 
 Tinfoil will automatically detect and use the list of shops contained in the file.
