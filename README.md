@@ -6,8 +6,7 @@ This repository is a maintained directory of all active Tinfoil shops for use wi
 Instead of downloading the `shops.tfl` file, you should point Tinfoil directly to the hosted file. Although, you could download and host it yourself.:
 
 - **Protocol:** https
-- **Host:** codehedge.github.io
-- **Path:** TinfoilDirectory/shops.tfl
+- **Host:** tf.edgeofhedge.com
 - **Title:** Shop Directory
 
 Tinfoil will automatically detect and use the list of shops contained in the file.
